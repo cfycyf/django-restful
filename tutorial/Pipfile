@@ -5,7 +5,7 @@ name = "pypi"
 
 [packages]
 djangorestframework = "*"
-django = "==2.2.2"
+django = "==2.2.28"
 
 [dev-packages]
 
